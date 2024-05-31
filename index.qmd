@@ -1,5 +1,18 @@
 ---
 title: "Cooper Honeywell"
+toc: false
+image: media/nepal_cooper.jpg
+about:
+  template: jolla
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/cooperhoneywell/
+    - text: GitHub
+      href: https://github.com/cooper-honeywell
+    - text: Email
+      href: mailto::cooperhoneywell@gmail.com
 ---
 
 ## About me! 
