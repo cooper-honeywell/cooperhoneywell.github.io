@@ -1,10 +1,10 @@
 ---
 title: "Cooper Honeywell"
 toc: false
-image: media/nepal_cooper.jpg
+image: headshot.jpg
 about:
   template: jolla
-  image-shape: rectangle
+  image-shape: rounded
   image-width: 20em
   links:
     - text: LinkedIn
