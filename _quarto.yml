@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "cooperhoneywell.github.io"
+  title: "Cooper Honeywell"
   navbar:
     left:
       - href: index.qmd
@@ -17,4 +17,16 @@ format:
     toc: true
 
 editor: visual
+
+
+About me!
+My name is Cooper Honeywell. I am a 3rd year Environmental Studies B.S. student 
+at UCSB, graduated in 2025. I am originally from Lake Tahoe, and have a deep 
+affinity for anything outdoors. I have been skiing, backpacking, rock climbing, 
+and mountain biking from a very young age. Since moving to Santa Barbara, I have
+developed a strong connection with the ocean through freedive spearfishing, 
+scuba diving, and surfing. I was the President of the UCSB Scuba and Freedive 
+Club along with a staff memeber with the Excursion Club.
+
+
 
