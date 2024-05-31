@@ -3,7 +3,7 @@ title: "Cooper Honeywell"
 toc: false
 image: headshot.jpg
 about:
-  template: jolla
+  template: broadside
   image-shape: rounded
   image-width: 20em
   links:
