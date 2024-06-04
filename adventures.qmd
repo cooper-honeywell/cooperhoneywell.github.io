@@ -8,6 +8,10 @@ title: "My Adventures"
 
 A group of 40 of us recently embarked on an incredible canoe trip on the Colorado River just below the Hoover Dam in Nevada/Arizona. We launched our canoes 8 miles south of the dam and spent the first day paddling 6 miles up river until we reached our camp. Contrary to the majority of the Colorado River, the water coming out of the dam is extremely clear and cold, making it a refreshing treat in the desert heat. On the second day of the trip, we explore the top 2 miles of the section. Here there is a super high concentration of hot springs, coming straight out of the ground and rock. The sides of the valley are covered in enticing caves and side canyons. There is one cave called the sauna cave that is a man made, pitch black tunnel into the rock that hot water seeps into, creating a "natural" sauna. You get a view of the dam in its entirety, and then get to enjoy the float back down river with the current.
 
+```{r}
+!(pics/river.jpg)
+```
+
 #### Diving the Channel Islands
 
 The Channel Islands are definitely one of my top places I have ever had the chance to explore. They offer such unique sense of desolation and host a rich marine ecosystem. I have had a few recent dive trips out there, my favorites include a spearfishing and lobster diving trip on a friends boat, and a scuba diving trip with the UCSB Scuba and Freedive Club.
