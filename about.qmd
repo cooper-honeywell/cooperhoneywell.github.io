@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+Welcome to my personal website!
 
-```{r}
-1 + 1
-```
+On here I will be showcasing my adventures in a trip report/blog format. I want to give others the opportunity to learn about these rad locations and how to explore them on their own! I plan on expanding this site to better showcase what I've been working on in all aspects of my life and keep it as a sort of history of all I have done.
+
+![](images/clipboard-2810096613.png)
