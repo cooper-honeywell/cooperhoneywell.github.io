@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Cooper Honeywell",
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "School Portfolio",
     "section": "",
-    "text": "My name is Cooper Honeywell. I am a 3rd year Environmental Studies B.S. student at UCSB, graduated in 2025. I am originally from Lake Tahoe, and have a deep affinity for anything outdoors. I have been skiing, backpacking, rock climbing, and mountain biking from a very young age. Since moving to Santa Barbara, I have developed a strong connection with the ocean through freedive spearfishing, scuba diving, and surfing. I was the President of the UCSB Scuba and Freedive Club along with a staff memeber with the Excursion Club."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Cooper Honeywell",
-    "section": "",
-    "text": "My name is Cooper Honeywell. I am a 3rd year Environmental Studies B.S. student at UCSB, graduated in 2025. I am originally from Lake Tahoe, and have a deep affinity for anything outdoors. I have been skiing, backpacking, rock climbing, and mountain biking from a very young age. Since moving to Santa Barbara, I have developed a strong connection with the ocean through freedive spearfishing, scuba diving, and surfing. I was the President of the UCSB Scuba and Freedive Club along with a staff memeber with the Excursion Club."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Welcome to my personal website!\nOn here I will be showcasing my adventures in a trip report/blog format. I want to give others the opportunity to learn about these rad locations and how to explore them on their own! I plan on expanding this site to better showcase what I’ve been working on in all aspects of my life and keep it as a sort of history of all I have done."
+    "text": "I have had the opportunity of taking some really amazing classes here at UCSB. Below I’ve included some projects and pieces that I am proud of.\n\n\n1) A piece on my hometown of Lake Tahoe’s Community Resilience\n2) My final project for Global Tourism and Environmental Justice with Julie Maldonado, a really really cool class: A People’s Tour of Lake Tahoe\n3) Rewriting a tourist site: Channel Islands National Park\n4) An energy policy proposal regarding Diablo Canyon Nuclear Power Plant."
   },
   {
     "objectID": "adventures.html",
@@ -40,5 +26,26 @@
     "title": "My Adventures",
     "section": "Big Adventures:",
     "text": "Big Adventures:\n\nNepal\nI had the incredible opportunity to study abroad in Nepal on a field study program with Wildlands Studies. As a class of 18 students, 2 TAs, our profesor, and a Nepali guide team, we trekked for 32 days through the Himalaya. we began in the green, wet, foothills, and trekked up deep river gorges, visiting Buddhist monasteries, mountain villages, and reached a peak elevation of 17,000’.\n\n\nDuring an acclimatazation hike near the Chinese border, some of my peers and I were so lucky to observe the ever elusive Snow Leopard. I feel extremely blessed and lucky to have had this opportunity at all as the Snow Leppard is one of the least studied large cats due to their elusiveness and scattered habitats. Nonetheless, this day is without a doubt one of the best days of my life and I will never forget what it felt like to be in the presence of such an animal.\n\nWe also were able to explore the southern border of the country where wild rhinos, crocodiles and tigers roam the forests and river.\n\nThis entire experience was by far the most personally impactful thing I have ever done and I feel extremely grateful that I was able to use this towards the completion of my degree.\n\n\nIndonesia/Thailand\nAfter I left Nepal, I had over a month before I had to be back in California for school so I took that opportunity to explore parts of Southeast Asia. I backpacked around Thailand, some with friends and some alone, scuba diving and exploring the islands in the south, and trekking to remote villages and caves in the north.\n\nI then met Katie, my girlfriend, in Indonesia. We traveled through parts of Bali, getting some of the best surf of my life, Nusa Penida, where we got to experience a more genuine welcoming community, Lombok where we visited the base of Mount Rinjani, and the surfing town of Kuta, and finally relaxed on the tiny island of Gili Air."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to my personal website!\nOn here I will be showcasing my adventures in a trip report/blog format. I want to give others the opportunity to learn about these rad locations and how to explore them on their own! I plan on expanding this site to better showcase what I’ve been working on in all aspects of my life and keep it as a sort of history of all I have done."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cooper Honeywell",
+    "section": "",
+    "text": "My name is Cooper Honeywell. I am a 3rd year Environmental Studies B.S. student at UCSB, graduated in 2025. I am originally from Lake Tahoe, and have a deep affinity for anything outdoors. I have been skiing, backpacking, rock climbing, and mountain biking from a very young age. Since moving to Santa Barbara, I have developed a strong connection with the ocean through freedive spearfishing, scuba diving, and surfing. I was the President of the UCSB Scuba and Freedive Club along with a staff memeber with the Excursion Club."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Cooper Honeywell",
+    "section": "",
+    "text": "My name is Cooper Honeywell. I am a 3rd year Environmental Studies B.S. student at UCSB, graduated in 2025. I am originally from Lake Tahoe, and have a deep affinity for anything outdoors. I have been skiing, backpacking, rock climbing, and mountain biking from a very young age. Since moving to Santa Barbara, I have developed a strong connection with the ocean through freedive spearfishing, scuba diving, and surfing. I was the President of the UCSB Scuba and Freedive Club along with a staff memeber with the Excursion Club."
   }
 ]

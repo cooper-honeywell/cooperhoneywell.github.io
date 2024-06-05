@@ -1,0 +1,17 @@
+---
+title: "School Portfolio"
+about: 
+  template: solana
+---
+
+#### I have had the opportunity of taking some really amazing classes here at UCSB. Below I've included some projects and pieces that I am proud of.
+
+##### 
+
+1\) A piece on my hometown of [Lake Tahoe's Community Resilience](https://docs.google.com/document/d/10NFrAOLGazsg9yZgePRdU9STssbWZbVDvZWYpF_tV_Q/edit?usp=sharing)
+
+2\) My final project for Global Tourism and Environmental Justice with Julie Maldonado, a really really cool class: [A People's Tour of Lake Tahoe](https://docs.google.com/document/d/1ErjgiDsPGBZ-2t2b0ERKY2sPHuoM7N_53d-wiUsxno8/edit?usp=sharing)
+
+3\) Rewriting a tourist site: [Channel Islands National Park](https://docs.google.com/document/d/1ItljwZT_8e2JQKGyjZY2lM5QS8zN7Kvs9yWFj3kA_iQ/edit?usp=sharing)
+
+4\) An energy policy [proposal](https://docs.google.com/document/d/1QEvA_243rBTi8wYdCK66iKzfE0saOx7CRZ2QXkA6fN4/edit?usp=sharing) regarding Diablo Canyon Nuclear Power Plant.
