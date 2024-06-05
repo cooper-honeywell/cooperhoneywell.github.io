@@ -1,7 +1,5 @@
 ---
 title: "School Portfolio"
-about: 
-  template: solana
 ---
 
 #### I have had the opportunity of taking some really amazing classes here at UCSB. Below I've included some projects and pieces that I am proud of.
